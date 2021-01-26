@@ -79,5 +79,8 @@ Flexbox
 ### React Router DOM Library
   - `<Link>` Tag
   - `<Route>` Tag using various attributes such as `exact`
-  - 
+  - Creating a header / navbar with react components
+
+  ### REACT FORMS
+    - Creating forms with reusable components
 
